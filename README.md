@@ -41,7 +41,7 @@ The apps written in the following JavaScript frameworks/libraries:
 - Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?wt.mc_id=shopathome-github-jopapa)
 - [API support in Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/apis?wt.mc_id=shopathome-github-jopapa)
 - [Add an API to Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/add-api?wt.mc_id=shopathome-github-jopapa)
-- [Authentication and authorization](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization?wt.mc_id=shopathome-github-jopapa)
+- [Authentication and authorization](https://learn.microsoft.com/azure/static-web-apps/authentication-authorization?wt.mc_id=shopathome-github-jopapa)
 - [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=shopathome-github-jopapa)
 - [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=shopathome-github-jopapa)
 - [Azure Free Trial](https://azure.microsoft.com/free/?wt.mc_id=shopathome-github-jopapa)
